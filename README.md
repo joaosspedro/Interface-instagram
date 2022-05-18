@@ -1,10 +1,11 @@
 # Interface-instagram
 
 
-Objetivo: Recriar a tela de login do Instagram.
+Projeto proposto no Bootcamp Spread Fullstack Developer.   
 
 
-Desafio do Projeto 
+Objetivo do Projeto - Recriar a tela de login do Instagram.
 
+- Html e Css básico;
 - Html semântico;
 - Flexbox;
